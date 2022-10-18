@@ -1,3 +1,6 @@
+//Began project: 10/16/2022
+//Last edit: 10/18/2022
+
 use std::io;
 use rand::Rng;
 use std::cmp::Ordering;
